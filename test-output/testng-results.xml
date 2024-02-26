@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-25T17:09:56 EST" name="Suite" finished-at="2024-02-25T17:10:02 EST" duration-ms="5666">
+    <groups>
+    </groups>
+    <test started-at="2024-02-25T17:09:56 EST" name="Test" finished-at="2024-02-25T17:10:02 EST" duration-ms="5666">
+      <class name="testCases.TC_001_LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_001_LoginTest@59fd97a8]" started-at="2024-02-25T17:09:56 EST" name="setup" finished-at="2024-02-25T17:09:59 EST" duration-ms="3016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Login()[pri:0, instance:testCases.TC_001_LoginTest@59fd97a8]" started-at="2024-02-25T17:09:59 EST" name="test_Login" finished-at="2024-02-25T17:10:00 EST" duration-ms="479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC_001_LoginTest@59fd97a8]" started-at="2024-02-25T17:10:00 EST" name="close" finished-at="2024-02-25T17:10:00 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC_001_LoginTest -->
+      <class name="testCases.TC_002_MainPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_002_MainPageTest@4d9e68d0]" started-at="2024-02-25T17:10:00 EST" name="setup" finished-at="2024-02-25T17:10:01 EST" duration-ms="1705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MainpageTest()[pri:0, instance:testCases.TC_002_MainPageTest@4d9e68d0]" started-at="2024-02-25T17:10:01 EST" name="MainpageTest" finished-at="2024-02-25T17:10:02 EST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainpageTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC_002_MainPageTest@4d9e68d0]" started-at="2024-02-25T17:10:02 EST" name="close" finished-at="2024-02-25T17:10:02 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC_002_MainPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
